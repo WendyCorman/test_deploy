@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WendyCorman/test_deploy.git/static/css/main.a9708b89.css",
+    "main.js": "/WendyCorman/test_deploy.git/static/js/main.2f168efd.js",
+    "static/js/787.ec800d02.chunk.js": "/WendyCorman/test_deploy.git/static/js/787.ec800d02.chunk.js",
+    "index.html": "/WendyCorman/test_deploy.git/index.html",
+    "main.a9708b89.css.map": "/WendyCorman/test_deploy.git/static/css/main.a9708b89.css.map",
+    "main.2f168efd.js.map": "/WendyCorman/test_deploy.git/static/js/main.2f168efd.js.map",
+    "787.ec800d02.chunk.js.map": "/WendyCorman/test_deploy.git/static/js/787.ec800d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9708b89.css",
+    "static/js/main.2f168efd.js"
+  ]
+}
